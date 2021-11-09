@@ -2,5 +2,6 @@
 int main()
 {
 printf("hello cac ban , toi la manh ");
+printf("hello cac ban , toi la manh2 ");
 return 0;
 }
