@@ -1,8 +1,5 @@
-#include<conio.h>
-#include<math.h>
-int main()
-{
-printf("hello cac ban , toi la manh ");
-printf("hello cac ban , toi la manh2 ");
-return 0;
+#include <stdio.h>
+int main ()
+{ 
+    printf (" Trang dien ");
 }
